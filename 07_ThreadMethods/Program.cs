@@ -20,7 +20,7 @@ namespace _07_ThreadMethods
             //Thread Join
             Thread t1 = new Thread(ThreadRepeticao);
             t1.Start();
-            t1.Join();
+            t1.Join(); //Aguarda a Thread acima para realizar o fim da thread atual exibindo os Consoles abaixo
 
             Console.WriteLine("Fim do processo");
             Console.WriteLine("Fim do processo");
