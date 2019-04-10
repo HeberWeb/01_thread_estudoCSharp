@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_ThreadId", "06_ThreadId\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ThreadMethods", "07_ThreadMethods\07_ThreadMethods.csproj", "{0154C738-CF16-47CB-AE85-C6AED94BF5FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_AutoManual", "08_AutoManual\08_AutoManual.csproj", "{F0F71E57-2E45-4DC2-B45F-2CB87692BD4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{0154C738-CF16-47CB-AE85-C6AED94BF5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0154C738-CF16-47CB-AE85-C6AED94BF5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0154C738-CF16-47CB-AE85-C6AED94BF5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F71E57-2E45-4DC2-B45F-2CB87692BD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F71E57-2E45-4DC2-B45F-2CB87692BD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F71E57-2E45-4DC2-B45F-2CB87692BD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F71E57-2E45-4DC2-B45F-2CB87692BD4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
